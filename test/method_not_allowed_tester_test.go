@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/amidgo/httptester"
+	"github.com/amidgo/httptester/mock"
 	"github.com/amidgo/tester"
-	"github.com/amidgo/tester/httptester"
-	"github.com/amidgo/tester/httptester/mock"
 	"github.com/stretchr/testify/assert"
 )
 

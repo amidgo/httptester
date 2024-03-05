@@ -3,7 +3,7 @@ module github.com/amidgo/httptester
 go 1.22.0
 
 require (
-	github.com/amidgo/tester v0.0.2
+	github.com/amidgo/tester v0.0.3
 	github.com/stretchr/testify v1.9.0
 )
 
